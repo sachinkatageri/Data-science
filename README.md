@@ -14,11 +14,14 @@ Machine learning adheres to a well-defined process that includes data preparatio
 
 <p align="center"><b>Above Project Details </b></p>
 
->MonkAI-classifying weather type based on images
 
 >Detecting fraudulent credit card operations with machine learning algorithms
 
+https://github.com/sachinkatageri/ML_data_science/blob/master/Credit_Card__Fraud_Detection.ipynb
+
 >Sentiment Analysis-Twitter
+
+https://github.com/sachinkatageri/ML_data_science/blob/master/twitter_sentiment_analysis.ipynb
 
 Dataset "https://www.dropbox.com/s/b44o3t3ehmnx2b7/creditcard.csv?dl=1"
 
