@@ -21,6 +21,8 @@ https://github.com/sachinkatageri/ML_data_science/blob/master/Credit_Card__Fraud
 
 >Sentiment Analysis-Twitter
 
+<img align='Right' src="https://miro.medium.com/max/450/1*8xH405qb-LdRQk7KCSw45g.png" width="200">
+
 medium:https://medium.com/@sachin.kumar.katageri/sentiment-analysis-by-using-twitter-data-9d1e01da146
 
 https://github.com/sachinkatageri/ML_data_science/blob/master/twitter_sentiment_analysis.ipynb
