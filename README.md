@@ -36,5 +36,5 @@ Dataset "https://www.dropbox.com/s/b44o3t3ehmnx2b7/creditcard.csv?dl=1"
 - TDEngine
 - BERT
 - Video object removal
-- Aweome-TensorFlow
+- Awesome-TensorFlow
 - FacebookResearch’s fastText.
